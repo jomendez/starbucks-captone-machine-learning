@@ -1,9 +1,10 @@
 # Starbucks Captone Machine Learning
 
-Introduction
+## Introduction
+
 This is the final project for the Udacity Machine Learning Engineer Nanodegree Program using AWS SageMaker
 
-The the project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. The goal of the project is to analyze this "historical" data in order to develop an algorithm that finds the most suiting offer type for each customer.
+The project contains simulated data that mimics customer behavior on the Starbucks rewards mobile app. The goal of the project is to analyze this "historical" data in order to develop an algorithm that finds the most suiting offer type for each customer.
 
 The data is contained in three files:
 
@@ -36,9 +37,9 @@ Since this is a classification problem we can use the following metrics to evalu
 under the Receiving Operating Characteristic Curve. This particular curve accounts that
 higher probabilities are associated with true positives and vice-versa.
 
-## Algoritms
+## Algorithms
 
-We explored two algoritms `Linear Learner` and `XGBoost` to find the best models for for each offer, a Discount, a Buy One Get One (BOGO)
+We explored two algorithms `Linear Learner` and `XGBoost` to find the best models for for each offer, a Discount, a Buy One Get One (BOGO)
 or Informational.
 
 For more information you can refer to the `proposal.pdf` file included in this repository
