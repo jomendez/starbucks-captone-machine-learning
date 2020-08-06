@@ -43,3 +43,6 @@ We explored two algorithms `Linear Learner` and `XGBoost` to find the best model
 or Informational.
 
 For more information you can refer to the `proposal.pdf` file included in this repository
+
+## Blog post
+[http://www.jomendez.com/2020/08/06/udacity-machine-learning-nano-degree-starbucks-capstone-challenge/](http://www.jomendez.com/2020/08/06/udacity-machine-learning-nano-degree-starbucks-capstone-challenge/)
